@@ -6,3 +6,7 @@ langchain-core
 langchain-google-genai
 langchain_community
 flask
+langserve
+fastapi
+uvicorn
+sse_starlette
